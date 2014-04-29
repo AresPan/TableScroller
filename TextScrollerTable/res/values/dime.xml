@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- 股票搜索结果 -->
+    <dimen name="mheaderonerowheight"> 35dp</dimen>
+    <dimen name="mtableonerowheight"> 50dp</dimen>
+    <dimen name="mheaderonecharwidth"> 10dp</dimen>
+    <dimen name="mtablerowtextsize"> 18dp</dimen>
+    <dimen name="mheadtextsize">18dp</dimen>
+    <dimen name="mtotaltextsize"> 20dp</dimen>
+       <dimen name="search_mtotalheight"> 30dp</dimen>
+    <dimen name="mtotaltextmarge">5dp</dimen>
+    <dimen name="hscrollviewpading">5dp</dimen>
+    <dimen name="search_list_total_h">20dp</dimen>
+     <dimen name="search_list_total_merg_bottom">5dp</dimen>
+      <dimen name="search_list_item_dividerheight">0.5dp</dimen>
+         <dimen name="scroller_distance">25dp</dimen>
+</resources>

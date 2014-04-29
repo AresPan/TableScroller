@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="hederTextColor">#ffffff</color>
+        <color name="headerDiverColor">#e6e6e6</color>
+         <color name="tableDiverColor">#e6e6e6</color>
+   <color name="tabletextColor">#010101</color>
+      <color name="headertextColor">#9b9b9b</color>
+</resources>
